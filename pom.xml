@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>ch.ebalance</groupId>
     <artifactId>customer-id-service</artifactId>
-    <version>0.17.0-dev</version>
+    <version>0.18.0-dev</version>
     <properties>
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
